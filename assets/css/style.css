@@ -40,7 +40,7 @@ section {
 }
 
 h3 {
-    font-family: DM Sans;
+    font-family: "DM Sans", sans-serif;
     font-size: 42px;
     font-weight: 700;
     line-height: 52px;
@@ -59,7 +59,7 @@ h3 {
 .article {
     justify-self: center;
     max-width: 764px;
-    font-family: DM Sans;
+    font-family: "DM Sans", sans-serif;
     font-size: 18px;
     font-weight: 500;
     line-height: 28px;
@@ -69,7 +69,8 @@ h3 {
     margin-top: 20px;
 
 }
-.mb30{
+
+.mb30 {
     margin-bottom: 30px;
 }
 
@@ -83,13 +84,14 @@ h3 {
 
 .col-3 {
     width: 25%;
-    padding-left: 12px;
-    padding-right: 29px;
+    padding-left: 14.5px;
+    padding-right: 14.5px;
 }
-.card{
+
+.card {
     display: flex;
     min-height: 160px;
-    background-color: #F7F7F8; 
+    background-color: #F7F7F8;
     align-content: center;
     justify-content: center;
     align-items: center;
